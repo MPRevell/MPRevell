@@ -1,4 +1,4 @@
-Hi 👋 My name is Matt Revell
+Hi 👋 I'm Matt 
 ============================
 
 Web Developer & Trader
