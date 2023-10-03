@@ -1,15 +1,15 @@
 Hi 👋 My name is Matt Revell
 ============================
 
-Web Developer
+Web Developer & Trader
 -------------
 
-Having promised myself that I would become a self-taught Web Developer while working my other roles, in 2023, I made the leap into an intensive bootcamp with Le Wagon where I now teach students to help them realise the very same dream!
+Having promised myself that I would become a Web Developer while working my other roles, in 2023, I made the leap into an intensive bootcamp at Le Wagon where I now teach students to help them realise that very same dream! Having extensive experience in cleint-facing roles, I am hoping those skills can translate into my career as a Web dev where I hope to find myself working with like-minded people who all share the same passion for learning.
 
 *   🌍  I'm based in London
 *   ✉️  You can contact me at [mprevell97@gmail.com](mailto:mprevell97@gmail.com)
-*   🧠  I'm learning React, however as developers, we all know the learning never really stops - so all and any things code!
-*   ⚡  Absolutely love keeping active, whether playing tennis 🎾 , running 🏃‍♂️, golfing 🏌️‍♀️ or trying something completely new! Then cannot forget to have a great time with friends, I think that's what life is about.
+*   🧠  I like to learn all and anything coding, currently I have a hevay focus on React.
+*   ⚡  Absolutely love keeping active, whether playing tennis 🎾 , running 🏃‍♂️, golfing 🏌️‍♀️ or trying something completely new! Also love to have a great time with friends and family, that's really important to me.
 *
 *   Skills 
 <p align="left">
