@@ -4,7 +4,7 @@ Hi 👋 I'm Matt
 Web Developer & Trader
 -------------
 
-Having promised myself that I would become a Web Developer while working my other roles, in 2023, I made the leap into an intensive bootcamp at Le Wagon where I now teach students to help them realise that very same dream! Having extensive experience in cleint-facing roles prior to this journey, I am hoping those skills can translate into my career as a Web dev where I hope to find myself working with like-minded people who all share the same passion for learning.
+Having promised myself that I would become a Web Developer while working my other roles, in 2023, I made the leap into an intensive bootcamp at Le Wagon where I now teach students to help them realise that very same dream! I love to build user-friendly and aesthetically beautiful applications while I love to work alongside like-minded people who share the same passion for learning.
 
 *   🌍 Currently based in London
 *   ✉️  Reach me at [mprevell97@gmail.com](mailto:mprevell97@gmail.com)
