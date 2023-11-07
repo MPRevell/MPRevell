@@ -1,7 +1,7 @@
 Hi 👋 I'm Matt 
 ============================
 
-Web Developer & Trader
+Front-end Web Developer & Trader
 -------------
 
 Having promised myself that I would become a Web Developer while working my other roles, in 2023, I made the leap into an intensive bootcamp at Le Wagon where I now teach students to help them realise that very same dream! I love to build user-friendly and aesthetically beautiful applications while it's also great to work alongside like-minded people who share the same passion for learning.
