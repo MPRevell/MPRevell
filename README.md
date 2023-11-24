@@ -11,7 +11,9 @@ Having promised myself that I would become a Web Developer while working my othe
 *   🧠 With a current focus on React, I love to learn anything coding related so would love to chat if you're the same!
 *   ⚡  Absolutely love keeping active, whether playing tennis 🎾 , running 🏃‍♂️, golfing 🏌️‍♀️ or trying something completely new!
 
-Check out my latest project here: https://crypto-react-tracker.netlify.app/
+Check out my latest project, CryptoReact here: https://crypto-react-tracker.netlify.app/  
+
+CryptoReact is a cryptocurrency dashboard built for tracking live price and market data, allowing users to save specific coins to their watchlist.
 
 Tech Stack & Skills
 -------------
