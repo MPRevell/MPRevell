@@ -1,11 +1,8 @@
 Hi 👋 I'm Matt 
 ============================
 
-Front-end Developer || ReactJS || Javascript || TailwindCSS
+Junior Software Engineer @ Algolia
 -------------
-
-Having promised myself that I would become a Web Developer while working my other roles, in 2023, I made the leap into an intensive bootcamp at Le Wagon where I now teach students to help them realise that very same dream! I love to build user-friendly and aesthetically beautiful applications while it's also great to work alongside like-minded people who share the same passion for learning.
-
 *   🌍 Currently based in London
 *   ✉️  Reach me at [mprevell97@gmail.com](mailto:mprevell97@gmail.com)
 *   🧠 With a current focus on React, I love to learn anything coding related so would love to chat if you're the same!
