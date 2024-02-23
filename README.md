@@ -10,8 +10,6 @@ Junior Software Engineer @ Algolia
 
 Check out my latest solo project, CryptoReact here: https://crypto-react-tracker.netlify.app/  
 
-CryptoReact is a cryptocurrency dashboard built for tracking live price and market data, allowing users to save specific coins to their watchlist.
-
 Tech Stack & Skills
 -------------
 <p align="left">
