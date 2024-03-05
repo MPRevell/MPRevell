@@ -5,7 +5,7 @@ Junior Software Engineer @ Algolia
 -------------
 *   🌍 London
 *   ✉️  Reach me at [mprevell97@gmail.com](mailto:mprevell97@gmail.com)
-*   🧠 With a current focus on React and Typescript, I love to learn anything coding related so would love to chat if you're the same!
+*   🧠 React, Typescript, Next -- I love to learn anything coding related so would love to chat if you're the same!
 *   ⚡  Absolutely love keeping active, whether playing tennis 🎾 , running 🏃‍♂️, golfing 🏌️‍♀️ or trying something completely new!
 
 Check out my latest solo project, CryptoReact here: https://crypto-react-tracker.netlify.app/  
